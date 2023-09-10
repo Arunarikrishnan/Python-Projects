@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 import random
 class bank():
@@ -137,26 +132,3 @@ while True:
         print('please enter digits only')
 
 atm.pin()
- 
-'''while True:
-    trans = input("Do you want to do any transaction?(y/n):")
-    if trans == "y":
-        atm.transaction()
-    elif trans == "n":
-        print("Thanks for choosing us as your bank \n Visit us again!")
-        break
-    else:
-        print("Wrong command!  Enter 'y' for yes and 'n' for NO.\n")'''
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
