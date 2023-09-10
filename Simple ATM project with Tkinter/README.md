@@ -1,0 +1,1 @@
+This code creates a Tkinter-based ATM simulator. It starts with a login screen where users enter their PIN, and upon successful authentication, they can access the main menu to check balance, deposit, and withdraw money
